@@ -1958,3 +1958,12 @@ DiscoverySci.mx,Discovery SCI. (720p),http://80.80.160.168/live/9/live.m3u8
 Discovery.blt,Discovery (576p),http://51.255.70.112:8000/live/wayne/wayne/741.ts
 BBC2.uk,BBC Two HD (1080p),http://51.255.70.112:8000/live/wayne/wayne/1478.ts
 Channel4.uk,Channel 4 (576p),http://51.255.70.112:8000/live/wayne/wayne/763.ts
+mtvlive-hd,MTV Live HD (1080p),http://62.106.105.209:4022/udp/232.0.2.51:1234
+mtv-dance,MTV Dance (576p),http://151.80.115.8:8080/live/y9wBLcRW6q/CdlIe5ToDI/2.m3u8
+mtv-hits,MTV Hits (576p),http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/153/index.m3u8
+mtv-rocks,MTV Rock (576p),http://cp.dmbshare.net:8000/live/khe/khe/6839.ts
+ext,Muz TV (576p),http://fr.cdn.edem.tv/iptv/MVR43UD8XWESKE/116/index.m3u8
+vevo,Vevo 1 (720p),http://51.255.70.112:8000/live/wayne/wayne/786.ts
+vevo,Vevo 2 (720p),http://51.255.70.112:8000/live/wayne/wayne/787.ts
+vevo,Vevo 3 (720p),http://51.255.70.112:8000/live/wayne/wayne/788.ts
+SLAM!TV.nl,SLAM! (720p),http://hls2.slamfm.nl/content/slamtv/slamtv_0.m3u8
